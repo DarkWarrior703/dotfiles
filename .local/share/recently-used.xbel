@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/paul/Downloads/sexcolors.txt" added="2020-12-02T17:34:49.770226Z" modified="2020-12-02T17:34:49.770240Z" visited="2020-12-02T17:34:49.770228Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-02T17:34:49.770232Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/paul/Downloads/libXft-2.3.3.tar.bz2" added="2020-12-02T22:08:32.854144Z" modified="2020-12-02T22:08:32.854212Z" visited="2020-12-02T22:08:32.854151Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bzip-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-02T22:08:32.854161Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/paul/Downloads/profile.zip" added="2020-12-03T19:19:18.268754Z" modified="2020-12-03T19:19:18.268771Z" visited="2020-12-03T19:19:18.268757Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-03T19:19:18.268762Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/paul/Downloads/discord-0.0.12.tar.gz" added="2020-12-03T19:27:14.471963Z" modified="2020-12-03T19:27:14.472012Z" visited="2020-12-03T19:27:14.471965Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-03T19:27:14.471999Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/paul/Downloads/26.jpg" added="2020-12-03T19:32:52.615464Z" modified="2020-12-03T19:32:53.135727Z" visited="2020-12-03T19:32:52.615468Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-03T19:32:53.135717Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_paul0/colorfulcolors.txt" added="2020-12-03T19:42:00.567083Z" modified="2020-12-03T19:42:00.567111Z" visited="2020-12-03T19:42:00.567087Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-03T19:42:00.567101Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/paul/Downloads/colorfulcolors.txt" added="2020-12-03T19:42:12.429686Z" modified="2020-12-03T19:42:12.429710Z" visited="2020-12-03T19:42:12.429690Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-03T19:42:12.429698Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/paul/Downloads/dwm-ipc-20201106-f04cac6.diff" added="2020-12-06T08:45:57.653183Z" modified="2020-12-06T08:45:57.653199Z" visited="2020-12-06T08:45:57.653185Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-06T08:45:57.653191Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_paul0/dwm-anybar-polybar-tray-fix-20200905-bb2e722.diff" added="2020-12-06T08:46:55.490529Z" modified="2020-12-06T08:46:55.490556Z" visited="2020-12-06T08:46:55.490532Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-06T08:46:55.490540Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/paul/Downloads/dwm-anybar-polybar-tray-fix-20200905-bb2e722.diff" added="2020-12-06T08:47:06.254921Z" modified="2020-12-06T08:47:06.254939Z" visited="2020-12-06T08:47:06.254924Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-06T08:47:06.254929Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

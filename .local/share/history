@@ -1,0 +1,7 @@
+lx
+ls
+ls
+echo $BROWSER
+vim .zprofile
+. .zprofile
+source .zprofile
